@@ -26,7 +26,7 @@ I'm 38-year-old on an intention to enhance as a Cloud Comouter Engineer. I love 
  
 ### My Tech Stack 🤖
 
-I fell in love with the Apple ecosystem, so there is that...
+I fell in love with the Google and Amazon ecosystem, so there is that...
 I use a wide range of technologies on my projects, including:
 
 <div>
@@ -40,16 +40,21 @@ I use a wide range of technologies on my projects, including:
   <img src="https://github.com/Giankarlinux/images/blob/main/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Giankarlinux/images/blob/main/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
-### &nbsp;- Libraries, Frameworks, Tools  
 
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+### I'm Multi-Cloud! ☁️
 
-![Profile views](https://gpvc.arturio.dev/sourabmaity)
+I've built and spent a lot of 💸 on cloud platforms. 
 
-![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCP" alt="GCP" width="80" height="80"/>&nbsp;
+</div>
+
+
+
+![Dino](https://github.com/Giankarlinux/images/blob/main/dino.gif)
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 | ![](https://github-readme-stats.vercel.app/api?username=sourabmaity&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabmaity) |
