@@ -61,8 +61,6 @@ I've built and spent a lot of 💸 on cloud platforms.
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=giankarlinux) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=giankarlinux&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
-
 
 ## Watch my contribution graph being eaten by a snake🐍
 
