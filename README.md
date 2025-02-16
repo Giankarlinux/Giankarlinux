@@ -1,4 +1,5 @@
-<img src="ehttps://github.com/sourabmaity/sourabmaity/blob/main/text.gif" height="30"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Siddharth Belbase.</a></strong>
+</h1>
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
