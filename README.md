@@ -59,9 +59,9 @@ I've built and spent a lot of 💸 on cloud platforms.
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 | ![](https://github-readme-stats.vercel.app/api?username=giankarlinux&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giankarlinux) |
 | --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabmaity) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=giankarlinux) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=sourabmaity&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+![Sourab's github activity graph](https://activity-graph.herokuapp.com/graph?username=giankarlinux&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
 
 
 ## Watch my contribution graph being eaten by a snake🐍
