@@ -71,7 +71,7 @@ I've built and spent a lot of 💸 on cloud platforms.
 </p>
 
 <details>
-<summary></summary>
+<summary>AAAAA</summary>
 
 [![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/giankarlinux)
 
@@ -81,16 +81,6 @@ I've built and spent a lot of 💸 on cloud platforms.
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-## Spotify Playing 🎧
-
-
-
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
-
-
-------
-
 
 Credit: [Giankarlinux Maity](https://github.com/sourabmaity)
 Last Edited on: 16/02/2025
