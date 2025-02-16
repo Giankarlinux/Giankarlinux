@@ -74,5 +74,5 @@ I've built and spent a lot of 💸 on cloud platforms.
 
 <details>
 
-Credit: [Giankarlinux Maity](https://github.com/giankarlinux)
+Credit: [Giankarlinux](https://github.com/giankarlinux)
 Last Edited on: 16/02/2025
