@@ -27,9 +27,6 @@ I'm 38-year-old on an intention to enhance as a Cloud Comouter Engineer. I love 
 
 <a href=https://www.github.com/giankarlinux/><img src='https://github.com/Giankarlinux/images/blob/main/iconfinder__github_1156638.png' alt='github' height='40'>&nbsp;  </a>
    
-   
-   iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/giankarlinux)&nbsp; 
-
 </div>
 
 <img alt="Coding Gif" src="https://github.com/Giankarlinux/images/blob/main/gif.gif" height="200" align="right"/>&nbsp;
