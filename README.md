@@ -15,21 +15,33 @@ I'm 38-year-old on an intention to enhance as a Cloud Comouter Engineer. I love 
 - ⚡ Fun fact: Football Soccer
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<a href="https://www.buymeacoffee.com/giankarlinux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/giankarlinux)&nbsp;  
+[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlomarc/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/giankarlinux)&nbsp;  
 
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
  
-## 👨‍💻 &nbsp;Talking to Computers Using :
+### My Tech Stack 🤖
 
-### &nbsp;- Languages
+I fell in love with the Apple ecosystem, so there is that...
+I use a wide range of technologies on my projects, including:
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
-
+<div>
+  <img src="https://github.com/Giankarlinux/images/blob/main/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Giankarlinux/images/blob/main/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+</div>
 ### &nbsp;- Libraries, Frameworks, Tools  
 
 
