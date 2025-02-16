@@ -20,7 +20,7 @@ I'm 38-year-old on an intention to enhance as a Cloud Comouter Engineer. I love 
 ## Let's Connect <img src="https://github.com/Giankarlinux/images/blob/main/socials.png" width=40 height=40 /> 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/giancarlomarc/"> <img src='https://github.com/Giankarlinux/images/blob/main/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'/> &nbsp;  </a>
+<a href="https://www.linkedin.com/in/giancarlomarc/"> <img src='https://github.com/Giankarlinux/images/blob/main/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'/></a>
 <a href=https://www.twitter.com><img src='https://github.com/Giankarlinux/images/blob/main/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'/>&nbsp;  </a>
 <a href=https://www.github.com/giankarlinux/><img src='https://github.com/Giankarlinux/images/blob/main/iconfinder__github_1156638.png' alt='github' height='40'/>&nbsp;  </a>
    
