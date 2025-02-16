@@ -3,16 +3,16 @@
 
 <h1 align="center"><img src="https://github.com/Giankarlinux/images/blob/main/progra%203.gif" ></h1>
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I'm 38-year-old on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning IA and cybersecurity
+- 👯 I’m currently working with AWS, Google and Azure
 - 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
+- 💬 Ask me about Cloud Computing
+- 📫 How to reach me: [giancarlo.marc@pm.me](mailto:giancarlo.marc@pm.me)
 - 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+- ⚡ Fun fact: Football Soccer
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
