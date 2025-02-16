@@ -18,9 +18,9 @@ I'm 38-year-old on an intention to enhance as a Cloud Comouter Engineer. I love 
 <a href="https://www.buymeacoffee.com/giankarlinux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="Magnifique!" /></a></div>
 
 ## Let's Connect <img src="https://github.com/Giankarlinux/images/blob/main/socials.png" width=40 height=40 /> 
-<div align="center">
+
 [<img src='https://github.com/Giankarlinux/images/blob/main/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/giancarlomarc/)&nbsp;  [<img src='https://github.com/Giankarlinux/images/blob/main/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/)&nbsp;  [<img src='https://github.com/Giankarlinux/images/blob/main/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/giankarlinux)&nbsp;  
-</div>
+
 <img alt="Coding Gif" src="https://github.com/Giankarlinux/images/blob/main/gif.gif" height="200" align="right"/>&nbsp;
  <br/>
  
