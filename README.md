@@ -77,10 +77,5 @@ I've built and spent a lot of 💸 on cloud platforms.
 
 </details>
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-Credit: [Giankarlinux Maity](https://github.com/sourabmaity)
+Credit: [Giankarlinux Maity](https://github.com/giankarlinux)
 Last Edited on: 16/02/2025
