@@ -29,7 +29,7 @@ I'm 38-year-old on an intention to enhance as a Cloud Comouter Engineer. I love 
 I fell in love with the Google and Amazon ecosystem, so there is that...
 I use a wide range of technologies on my projects, including:
 
-<div>
+<div align="center">
    <img src="https://github.com/Giankarlinux/images/blob/main/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Giankarlinux/images/blob/main/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Giankarlinux/images/blob/main/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
